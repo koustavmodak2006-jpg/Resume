@@ -150,11 +150,9 @@ h1{
     height: 80vh;
     grid-template-columns: 3;
     grid-template-rows: 2;
-    margin: 20px 30px;
+    margin: 80px 50px;
 }
-.history>div{
-    margin: 0px 20px;
-}
+
 .about_me{
     grid-area: 1/1/2/2;
     width: 310px;
