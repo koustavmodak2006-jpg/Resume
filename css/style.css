@@ -371,6 +371,7 @@ h1{
     .left_half {
         width: 100%;
         padding-top: 15px;
+        height: 550px;
         padding-bottom: 30px;
     }
     .right_half {
